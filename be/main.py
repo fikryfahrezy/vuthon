@@ -1,0 +1,1 @@
+from vuthon import app
