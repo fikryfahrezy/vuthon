@@ -8,7 +8,7 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "prepare": "cd .. && husky fe/.husky"
+    "prepare": "husky .husky"
   },
   "dependencies": {
     "@nuxt/fonts": "0.11.4",

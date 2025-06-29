@@ -1,2 +1,0 @@
-cd fe
-pnpm exec lint-staged
